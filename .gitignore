@@ -1,2 +1,4 @@
-chromedriver
-.ipynb_checkpoints
+.ipynb_checkpoints/
+IgnoredDirectory/
+code-vault/
+__pycache__/
