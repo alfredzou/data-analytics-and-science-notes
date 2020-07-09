@@ -1,0 +1,2 @@
+ERROR: log_4_module: I'm being run as a module. My level is set to ERROR. To be outputted into my_log_4_module.log
+CRITICAL: log_4_module: I'm being run as a module. My level is set to ERROR. To be outputted into my_log_4_module.log

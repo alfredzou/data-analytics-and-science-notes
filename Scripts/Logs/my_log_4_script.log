@@ -1,0 +1,3 @@
+WARNING: __main__: I'm being run as a script. My level is set to WARNING. To be outputted into my_log_4_script.log
+ERROR: __main__: I'm being run as a script. My level is set to WARNING. To be outputted into my_log_4_script.log
+CRITICAL: __main__: I'm being run as a script. My level is set to WARNING. To be outputted into my_log_4_script.log

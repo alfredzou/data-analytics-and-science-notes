@@ -1,0 +1,11 @@
+DEBUG: root: I'm a debug message
+INFO: root: I'm a info message
+WARNING: root: I'm a warning message
+ERROR: root: I'm a error message
+CRITICAL: root: I'm a critical message
+CRITICAL: root: --------------------
+DEBUG: root: I'm a debug message
+INFO: root: I'm a info message
+WARNING: root: I'm a warning message
+ERROR: root: I'm a error message
+CRITICAL: root: I'm a critical message
